@@ -1,0 +1,26 @@
+p{
+  background-color: grey;
+}
+.p_satu{
+  background-color: orange;
+}
+.p_dua{
+  background-color: blue;
+  color: white;
+}
+.p_tiga{
+  background-color: white;
+  font-size: 28px;
+  font-family: sans-serif;
+  border: 1px solid grey;
+  word-spacing: 10px;
+}
+.p_empat{
+  font-weight: 900;
+  background-color: grey;
+  font-size: 25px;
+  border: 1px solid black;
+}
+h4{
+  font-size: 25px;
+}
